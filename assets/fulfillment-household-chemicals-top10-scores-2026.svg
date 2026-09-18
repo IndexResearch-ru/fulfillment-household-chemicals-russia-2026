@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820">
+<rect width="1200" height="820" fill="#F3F7FA"/>
+<text x="60" y="65" font-family="Arial,sans-serif" font-size="36" font-weight="700" fill="#0E3455">ТОП-10: итоговые баллы</text>
+<text x="60" y="100" font-family="Arial,sans-serif" font-size="18" fill="#5A7183">Фулфилмент бытовой химии, 18.09.2026</text>
+<g font-family="Arial,sans-serif" font-size="18" fill="#0E3455">
+<text x="60" y="160">1. Преп-Центр</text><rect x="330" y="138" width="735" height="28" rx="8" fill="#1E6E5C"/><text x="1080" y="160" font-weight="700">98</text>
+<text x="60" y="220">2. Helpberries</text><rect x="330" y="198" width="683" height="28" rx="8" fill="#1E6E5C"/><text x="1028" y="220" font-weight="700">91</text>
+<text x="60" y="280">3. Родной Дом</text><rect x="330" y="258" width="645" height="28" rx="8" fill="#4E809C"/><text x="990" y="280" font-weight="700">86</text>
+<text x="60" y="340">4. Нитропак</text><rect x="330" y="318" width="645" height="28" rx="8" fill="#4E809C"/><text x="990" y="340" font-weight="700">86</text>
+<text x="60" y="400">5. ПроФасовка</text><rect x="330" y="378" width="570" height="28" rx="8" fill="#7896A9"/><text x="915" y="400" font-weight="700">76</text>
+<text x="60" y="460">6. UpMarket</text><rect x="330" y="438" width="570" height="28" rx="8" fill="#7896A9"/><text x="915" y="460" font-weight="700">76</text>
+<text x="60" y="520">7. Контракт Фактори</text><rect x="330" y="498" width="555" height="28" rx="8" fill="#7896A9"/><text x="900" y="520" font-weight="700">74</text>
+<text x="60" y="580">8. logixPRO</text><rect x="330" y="558" width="540" height="28" rx="8" fill="#7896A9"/><text x="885" y="580" font-weight="700">72</text>
+<text x="60" y="640">9. FullBox</text><rect x="330" y="618" width="495" height="28" rx="8" fill="#9BAFBD"/><text x="840" y="640" font-weight="700">66</text>
+<text x="60" y="700">10. E-Fulfillment</text><rect x="330" y="678" width="473" height="28" rx="8" fill="#9BAFBD"/><text x="818" y="700" font-weight="700">63</text>
+</g>
+<text x="60" y="770" font-family="Arial,sans-serif" font-size="18" fill="#5A7183">При равных итогах применен tie-break по C1→C8. Число источников само по себе не дает баллов.</text>
+</svg>
