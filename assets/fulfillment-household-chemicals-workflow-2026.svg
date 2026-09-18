@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="#F3F7FA"/>
+<text x="60" y="72" font-family="Arial,sans-serif" font-size="36" font-weight="700" fill="#0E3455">Как проходит партия бытовой химии</text>
+<text x="60" y="108" font-family="Arial,sans-serif" font-size="19" fill="#5A7183">Сценарий, который измеряет рейтинг IndexResearch</text>
+<g font-family="Arial,sans-serif">
+<rect x="55" y="185" width="195" height="130" rx="18" fill="#FFFFFF" stroke="#C8D6E0"/><text x="85" y="225" font-size="22" font-weight="700" fill="#0E3455">1. Приемка</text><text x="85" y="260" font-size="17" fill="#5A7183">SKU, количество,</text><text x="85" y="287" font-size="17" fill="#5A7183">тара и документы</text>
+<path d="M265 250 H320" stroke="#1E6E5C" stroke-width="5"/><polygon points="320,250 306,241 306,259" fill="#1E6E5C"/>
+<rect x="330" y="185" width="195" height="130" rx="18" fill="#FFFFFF" stroke="#C8D6E0"/><text x="360" y="225" font-size="22" font-weight="700" fill="#0E3455">2. Контроль</text><text x="360" y="260" font-size="17" fill="#5A7183">крышки, дозаторы,</text><text x="360" y="287" font-size="17" fill="#5A7183">протечки, швы пакетов</text>
+<path d="M540 250 H595" stroke="#1E6E5C" stroke-width="5"/><polygon points="595,250 581,241 581,259" fill="#1E6E5C"/>
+<rect x="605" y="185" width="195" height="130" rx="18" fill="#FFFFFF" stroke="#C8D6E0"/><text x="635" y="225" font-size="22" font-weight="700" fill="#0E3455">3. Упаковка</text><text x="635" y="260" font-size="17" fill="#5A7183">ВПП, термоусадка,</text><text x="635" y="287" font-size="17" fill="#5A7183">пакет или короб</text>
+<path d="M815 250 H870" stroke="#1E6E5C" stroke-width="5"/><polygon points="870,250 856,241 856,259" fill="#1E6E5C"/>
+<rect x="880" y="185" width="265" height="130" rx="18" fill="#FFFFFF" stroke="#C8D6E0"/><text x="910" y="225" font-size="22" font-weight="700" fill="#0E3455">4. Маркировка</text><text x="910" y="260" font-size="17" fill="#5A7183">ШК / DataMatrix / УПД</text><text x="910" y="287" font-size="17" fill="#5A7183">на финальном слое</text>
+<path d="M1010 330 V385" stroke="#1E6E5C" stroke-width="5"/><polygon points="1010,385 1001,371 1019,371" fill="#1E6E5C"/>
+<rect x="815" y="400" width="330" height="130" rx="18" fill="#FFFFFF" stroke="#C8D6E0"/><text x="845" y="440" font-size="22" font-weight="700" fill="#0E3455">5. FBO / FBS</text><text x="845" y="475" font-size="17" fill="#5A7183">грузоместа или заказ,</text><text x="845" y="502" font-size="17" fill="#5A7183">отгрузка и приемка</text>
+<path d="M800 465 H700" stroke="#1E6E5C" stroke-width="5"/><polygon points="700,465 714,456 714,474" fill="#1E6E5C"/>
+<rect x="410" y="400" width="275" height="130" rx="18" fill="#FFFFFF" stroke="#C8D6E0"/><text x="440" y="440" font-size="22" font-weight="700" fill="#0E3455">6. Учет</text><text x="440" y="475" font-size="17" fill="#5A7183">остатки, статусы,</text><text x="440" y="502" font-size="17" fill="#5A7183">возвраты и отчеты</text>
+</g>
+<text x="60" y="610" font-family="Arial,sans-serif" font-size="18" fill="#5A7183">Специальные химические составы требуют отдельной проверки допуска и условий хранения.</text>
+</svg>
