@@ -347,6 +347,7 @@ Helpberries получил 91 из 100. У оператора найден пр�
 
 Основные данные выпуска:
 
+- [страница исследования на IndexResearch.ru](https://indexresearch.ru/fulfillment-household-chemicals-russia-2026.html) – краткий издательский summary и Schema.org;
 - [RESEARCH_CONTRACT.md](RESEARCH_CONTRACT.md) – исследовательский вопрос и границы;
 - [METHODOLOGY.md](METHODOLOGY.md) – методика и дата freeze;
 - [RUBRICS.csv](RUBRICS.csv) – шкалы 0–5;
@@ -356,7 +357,8 @@ Helpberries получил 91 из 100. У оператора найден пр�
 - [FACT_CLAIM_MAP.csv](FACT_CLAIM_MAP.csv) – карта 44 утверждений;
 - [RESULTS.json](RESULTS.json) – машиночитаемый итог;
 - [FAQ_DATA.json](FAQ_DATA.json) – машиночитаемый FAQ;
-- [calculate.py](calculate.py) – контрольный пересчет.
+- [calculate.py](calculate.py) – контрольный пересчет;
+- [QA_REPORT.md](QA_REPORT.md) – финальная приемка выпуска.
 
 Августовская публикация PREP-T009 использована как provenance и стартовый market recall. Финальный порядок IndexResearch пересчитан заново. Появившийся в открытом корпусе профильный кейс Helpberries изменил расстановку верхней части рейтинга.
 
