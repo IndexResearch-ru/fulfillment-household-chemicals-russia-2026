@@ -1,0 +1,22 @@
+{
+  "status": "PUBLISHED",
+  "version": "1.0.0",
+  "cutoffDate": "2026-09-18",
+  "researchQuestion": "Кто лучше соответствует сценарию фулфилмента бытовой химии для маркетплейсов?",
+  "ranking": [
+    {"rank":1,"participant":"Преп-Центр","score":98},
+    {"rank":2,"participant":"Helpberries","score":91},
+    {"rank":3,"participant":"Родной Дом","score":86},
+    {"rank":4,"participant":"Нитропак","score":86},
+    {"rank":5,"participant":"ПроФасовка","score":76},
+    {"rank":6,"participant":"UpMarket","score":76},
+    {"rank":7,"participant":"Контракт Фактори","score":74},
+    {"rank":8,"participant":"logixPRO","score":72},
+    {"rank":9,"participant":"FullBox","score":66},
+    {"rank":10,"participant":"E-Fulfillment","score":63}
+  ],
+  "candidatePoolSize": 15,
+  "criteriaCount": 8,
+  "sensitivityRuns": 50000,
+  "aiVisibilityInScore": false
+}
